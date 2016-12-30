@@ -1,0 +1,6 @@
+C:\Users\bkilkenney\Documents\Visual Studio 2015\CodeInterview\WhyUseAbstractClasses\WhyUseAbstractClasses\bin\Debug\WhyUseAbstractClasses.exe.config
+C:\Users\bkilkenney\Documents\Visual Studio 2015\CodeInterview\WhyUseAbstractClasses\WhyUseAbstractClasses\bin\Debug\WhyUseAbstractClasses.exe
+C:\Users\bkilkenney\Documents\Visual Studio 2015\CodeInterview\WhyUseAbstractClasses\WhyUseAbstractClasses\bin\Debug\WhyUseAbstractClasses.pdb
+C:\Users\bkilkenney\Documents\Visual Studio 2015\CodeInterview\WhyUseAbstractClasses\WhyUseAbstractClasses\obj\Debug\WhyUseAbstractClasses.csprojResolveAssemblyReference.cache
+C:\Users\bkilkenney\Documents\Visual Studio 2015\CodeInterview\WhyUseAbstractClasses\WhyUseAbstractClasses\obj\Debug\WhyUseAbstractClasses.exe
+C:\Users\bkilkenney\Documents\Visual Studio 2015\CodeInterview\WhyUseAbstractClasses\WhyUseAbstractClasses\obj\Debug\WhyUseAbstractClasses.pdb
